@@ -1,5 +1,9 @@
 # WEB-DEV-PROJECT
 
-This is a simple web development project to showcase my learning progress and consistency.
+In this repository, I will be adding simple web development projects to showcase my learning progress and consistency.
 
+## Project Features
 
+- Basic HTML structure
+- CSS for styling
+- JavaScript for interactivity
